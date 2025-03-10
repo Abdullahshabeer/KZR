@@ -1,0 +1,15 @@
+<svg width="60" height="70" viewBox="0 0 60 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.2139 6.41882L17.4043 10.6093" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.4745 16.4506L7.3291 12.3052" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.19531 31.2423V23.3608C6.19531 22.2637 6.63469 21.2144 7.41656 20.4448L20.4518 7.60605C21.2173 6.85147 22.2489 6.42847 23.3242 6.42847H54.4598C56.7208 6.42847 58.5534 8.26102 58.5534 10.522V64.815C58.5534 67.076 56.7208 68.9086 54.4598 68.9086H10.2889C8.02787 68.9086 6.19531 67.076 6.19531 64.815V35.9554" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.416 19.8869H31.0565C28.8474 19.8869 27.0571 18.0967 27.0571 15.8862C27.0571 13.6756 28.8474 11.8854 31.0579 11.8854H48.4174C50.6265 11.8854 52.4181 13.6756 52.4181 15.8862C52.4181 18.0967 50.6279 19.8869 48.4174 19.8869H48.416Z" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.1027 58.1549H17.4155V30.6393H47.3395V58.1549H34.0995" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47.3394 30.6404L53.099 25.3447" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M53.0966 63.4505L47.3369 58.1548" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.4154 58.1548L11.6558 63.4505" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.4154 30.6404L11.6558 25.3447" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M32.3762 34.6057L29.0946 37.8874C25.9411 41.0408 25.9411 46.1523 29.0946 49.3057L32.3762 52.5874L35.6579 49.3057C38.8113 46.1523 38.8113 41.0408 35.6579 37.8874L32.3762 34.6057Z" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M32.377 52.5888V44.4508" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M32.377 54.1881V52.5889" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M14.4683 5.16485L6.07378 13.5594C5.70127 13.9319 5.09542 13.9319 4.7229 13.5594L2.59971 11.4362C1.8001 10.6366 1.8001 9.34028 2.59971 8.54204L9.45098 1.69077C10.2506 0.891162 11.5469 0.891162 12.3451 1.69077L14.4683 3.81397C14.8408 4.18648 14.8408 4.79233 14.4683 5.16485Z" stroke="#2F3E45" stroke-width="2.18324" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

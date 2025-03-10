@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M57 12.5L50.7775 52.9834C50.0433 57.8786 45.8381 61.5 40.8881 61.5H23.1119C18.1619 61.5 13.9567 57.8786 13.2225 52.9834L7 12.5" stroke="#2F3E45" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M32 36.5V51.5" stroke="#2F3E45" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 36.5C42 42.0229 37.5229 46.5 32 46.5C26.4771 46.5 22 42.0229 22 36.5C22 29 32 21.5 32 21.5C32 21.5 42 29 42 36.5Z" stroke="#2F3E45" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.5 12.5H61.5" stroke="#2F3E45" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="hover-effect" d="M24.5 12.5V7.5C24.5 4.73863 26.7386 2.5 29.5 2.5H34.5C37.2614 2.5 39.5 4.73863 39.5 7.5V12.5" stroke="#2F3E45" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

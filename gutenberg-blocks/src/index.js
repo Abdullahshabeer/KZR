@@ -1,0 +1,16 @@
+import './home-banner-block.js';
+import './homepage-new-block.js';
+import './homepage-zkolenia-block.js';
+import './imge-content-block.js';
+import './image-title-block.js';
+import './faq-toggle-block.js';
+import './scopcertification-block.js';
+import './kod.js';
+import './Infographic.js';
+import './certification.js';
+import './links.js';
+import './Documents.js';
+import './kontack.js';
+import './add-title-block.js';
+import './different_post-design.js';
+import './api-table-block.js';
