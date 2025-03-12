@@ -19,4 +19,4 @@ This is a modern, custom WordPress theme built with HTML, CSS, JavaScript, PHP, 
 🔹 HTML, CSS, JavaScript  
 🔹 PHP  
 
-🔗 **Original Government Website:** [KZR](https://kzr.inig.eu/)  
+🔗 **Original Website:** [KZR](https://kzr.inig.eu/)  
